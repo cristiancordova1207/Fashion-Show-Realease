@@ -1,6 +1,6 @@
 {
-  "version": "1.0.0",
+  "version": "1.0.1",
   "date": "2026-10-28",
-  "notes": "Primera versión pública\nColas: cinemático, donadores (una pasada por rosa) y normal\nRegalo Gigante configurable\nOverlays 9:16 para TikTok LIVE Studio",
+  "notes": "Link de tu web en la pantalla del juego (el admin lo cambia desde el panel)",
   "url": "https://github.com/cristiancordova1207/Fashion-Show-Realease/raw/main/Roblox-Fashion-Show.exe"
 }
