@@ -1,5 +1,10 @@
 # Roblox Fashion Show · novedades
 
+## v1.0.6 · 2026-10-29
+
+- Nuevo overlay Todo en uno: todo en una sola fuente, cada parte se activa o desactiva y se mueve por separado
+- En el juego: botón para copiar el código de conexión
+
 ## v1.0.5 · 2026-10-29
 
 - Cinemático más largo: la cámara sigue a quien desfila casi todo el recorrido
