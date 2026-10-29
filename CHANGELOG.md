@@ -1,5 +1,12 @@
 # Roblox Fashion Show · novedades
 
+## v1.0.5 · 2026-10-29
+
+- Cinemático más largo: la cámara sigue a quien desfila casi todo el recorrido
+- 20 segundos entre cinemáticos para que no se pisen
+- En el juego: guarda hasta 3 posiciones de la cámara libre (pestaña Cámara)
+- En el juego: escenario al azar durante el modo fiesta y botones de 10/20/30/60 s
+
 ## v1.0.4 · 2026-10-29
 
 - Sin huecos en la pasarela: ya no se pierden desfiles, rosas ni cinemáticos en el juego publicado
