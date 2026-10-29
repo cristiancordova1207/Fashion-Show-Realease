@@ -1,5 +1,9 @@
 # Roblox Fashion Show · novedades
 
+## v1.0.7 · 2026-10-29
+
+- Precio de lanzamiento: 12 USD el primer mes para los 10 primeros, luego 15 USD/mes. Admin: eventos automaticos (rachas, fiesta y gigante cuando no hay regalos) que aprenden que funciona. El juego avisa cuando se acaba la prueba.
+
 ## v1.0.6 · 2026-10-29
 
 - Nuevo overlay Todo en uno: todo en una sola fuente, cada parte se activa o desactiva y se mueve por separado
