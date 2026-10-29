@@ -1,5 +1,12 @@
 # Roblox Fashion Show · novedades
 
+## v1.0.3 · 2026-10-28
+
+- Overlays separados: uno por sección (título, cola, desfilando, siguientes, modos, donantes)
+- Los textos de los overlays siguen el idioma del programa
+- Los modos (Rosa, cinemático, fiesta, gigante) se editan también en la pestaña Overlays
+- 4 escenarios nuevos: Sakura, Jardín, Nubes y Lujo
+
 ## v1.0.2 · 2026-10-28
 
 - Modo fiesta: sale en la pantalla el usuario de Roblox de quien lo activa

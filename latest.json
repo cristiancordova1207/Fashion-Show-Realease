@@ -1,6 +1,6 @@
 {
-  "version": "1.0.2",
+  "version": "1.0.3",
   "date": "2026-10-28",
-  "notes": "Modo fiesta: sale en la pantalla el usuario de Roblox de quien lo activa\nPrueba gratis de 1 hora al crear la cuenta\nUna sola cuenta por PC",
+  "notes": "Overlays separados: uno por sección (título, cola, desfilando, siguientes, modos, donantes)\nLos textos de los overlays siguen el idioma del programa\nLos modos (Rosa, cinemático, fiesta, gigante) se editan también en la pestaña Overlays\n4 escenarios nuevos: Sakura, Jardín, Nubes y Lujo",
   "url": "https://github.com/cristiancordova1207/Fashion-Show-Realease/raw/main/Roblox-Fashion-Show.exe"
 }
