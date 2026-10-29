@@ -1,5 +1,14 @@
 # Roblox Fashion Show · novedades
 
+## v1.0.4 · 2026-10-29
+
+- Sin huecos en la pasarela: ya no se pierden desfiles, rosas ni cinemáticos en el juego publicado
+- Todas las rosas de una persona salen seguidas (200 rosas = 200 desfiles suyos y después el siguiente)
+- Gigante: por defecto con Money Gun, 15 segundos y cámara girando a su alrededor
+- Modo fiesta: la cámara cambia de plano y los personajes levantan las manos
+- El usuario de quien desfila ya no sale en la pantalla
+- El menú del juego se traduce solo (español, inglés o portugués según el país)
+
 ## v1.0.3 · 2026-10-28
 
 - Overlays separados: uno por sección (título, cola, desfilando, siguientes, modos, donantes)
