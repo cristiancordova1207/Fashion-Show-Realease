@@ -1,5 +1,16 @@
 # Roblox Fashion Show · novedades
 
+## v1.0.8 · 2026-10-30
+
+- Nuevo: Universe Dance con el Money Gun (7 copias del donador bailando 15 s)
+- Vuelve el gigante con el corazón (Hand Hearts)
+- Cola más justa: quien manda muchos no tapa a los demás y las rosas sueltas salen antes
+- Si hay muchos regalos esperando, desfilan más rápido
+- Los cinemáticos seguidos empiezan sin esperas
+- Eventos automáticos activados para todos
+- Seguridad: la cuenta queda en tu PC
+- Actualización obligatoria
+
 ## v1.0.7 · 2026-10-29
 
 - Precio de lanzamiento: 12 USD el primer mes para los 10 primeros, luego 15 USD/mes. Admin: eventos automaticos (rachas, fiesta y gigante cuando no hay regalos) que aprenden que funciona. El juego avisa cuando se acaba la prueba.

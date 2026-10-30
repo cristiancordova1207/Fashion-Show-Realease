@@ -1,6 +1,6 @@
 {
-  "version": "1.0.7",
-  "date": "2026-10-29",
-  "notes": "Precio de lanzamiento: 12 USD el primer mes para los 10 primeros, luego 15 USD/mes. Admin: eventos automaticos (rachas, fiesta y gigante cuando no hay regalos) que aprenden que funciona. El juego avisa cuando se acaba la prueba.",
+  "version": "1.0.8",
+  "date": "2026-10-30",
+  "notes": "Nuevo: Universe Dance con el Money Gun (7 copias del donador bailando 15 s)\nVuelve el gigante con el corazón (Hand Hearts)\nCola más justa: quien manda muchos no tapa a los demás y las rosas sueltas salen antes\nSi hay muchos regalos esperando, desfilan más rápido\nLos cinemáticos seguidos empiezan sin esperas\nEventos automáticos activados para todos\nSeguridad: la cuenta queda en tu PC\nActualización obligatoria",
   "url": "https://github.com/cristiancordova1207/Fashion-Show-Realease/raw/main/Roblox-Fashion-Show.exe"
 }
