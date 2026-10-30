@@ -1,5 +1,9 @@
 # Roblox Fashion Show · novedades
 
+## v1.0.11 · 2026-10-30
+
+- Nueva tarjeta Live Checker: mira las estadísticas de tu directo en el móvil (espectadores, likes, seguidores, regalos con sus imágenes) y recibe avisos con alarma si tu LIVE se restringe, se desactivan los regalos o se corta.
+
 ## v1.0.10 · 2026-10-30
 
 - Puedes configurar cuándo acelera el desfile cuando hay muchos regalos en cola (por defecto 220) y a qué velocidad (x1.3)

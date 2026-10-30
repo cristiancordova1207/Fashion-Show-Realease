@@ -1,7 +1,7 @@
 {
-  "version": "1.0.10",
+  "version": "1.0.11",
   "date": "2026-10-30",
-  "notes": "Puedes configurar cuándo acelera el desfile cuando hay muchos regalos en cola (por defecto 220) y a qué velocidad (x1.3)\nAviso dentro del programa cuando hay una actualización, con botón Actualizar\nMejoras y correcciones",
+  "notes": "Nueva tarjeta Live Checker: mira las estadísticas de tu directo en el móvil (espectadores, likes, seguidores, regalos con sus imágenes) y recibe avisos con alarma si tu LIVE se restringe, se desactivan los regalos o se corta.",
   "url": "https://github.com/cristiancordova1207/Fashion-Show-Realease/raw/main/Roblox-Fashion-Show.exe",
   "required": true
 }
