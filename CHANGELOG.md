@@ -1,5 +1,12 @@
 # Roblox Fashion Show · novedades
 
+## v1.0.9 · 2026-10-30
+
+- Pack Premium: modo AFK, overlays y ajustes del desfile
+- El desfile acelera a x1.3 cuando hay muchos regalos en cola
+- Estadísticas de cada directo
+- Mejoras y correcciones
+
 ## v1.0.8 · 2026-10-30
 
 - Nuevo: Universe Dance con el Money Gun (7 copias del donador bailando 15 s)

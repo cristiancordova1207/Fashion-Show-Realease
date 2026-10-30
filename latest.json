@@ -1,7 +1,7 @@
 {
-  "version": "1.0.8",
+  "version": "1.0.9",
   "date": "2026-10-30",
-  "notes": "Nuevo: Universe Dance con el Money Gun (7 copias del donador bailando 15 s)\nVuelve el gigante con el corazón (Hand Hearts)\nCola más justa: quien manda muchos no tapa a los demás y las rosas sueltas salen antes\nSi hay muchos regalos esperando, desfilan más rápido\nLos cinemáticos seguidos empiezan sin esperas\nEventos automáticos activados para todos\nSeguridad: la cuenta queda en tu PC\nActualización obligatoria",
+  "notes": "Pack Premium: modo AFK, overlays y ajustes del desfile\nEl desfile acelera a x1.3 cuando hay muchos regalos en cola\nEstadísticas de cada directo\nMejoras y correcciones",
   "url": "https://github.com/cristiancordova1207/Fashion-Show-Realease/raw/main/Roblox-Fashion-Show.exe",
   "required": true
 }
