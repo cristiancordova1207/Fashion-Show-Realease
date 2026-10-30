@@ -1,5 +1,11 @@
 # Roblox Fashion Show · novedades
 
+## v1.0.10 · 2026-10-30
+
+- Puedes configurar cuándo acelera el desfile cuando hay muchos regalos en cola (por defecto 220) y a qué velocidad (x1.3)
+- Aviso dentro del programa cuando hay una actualización, con botón Actualizar
+- Mejoras y correcciones
+
 ## v1.0.9 · 2026-10-30
 
 - Nuevas opciones para el modo AFK, overlays y el desfile

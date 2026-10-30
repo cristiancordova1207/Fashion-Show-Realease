@@ -1,7 +1,7 @@
 {
-  "version": "1.0.9",
+  "version": "1.0.10",
   "date": "2026-10-30",
-  "notes": "Nuevas opciones para el modo AFK, overlays y el desfile\nEl desfile acelera a x1.3 cuando hay muchos regalos en cola\nEstadísticas de cada directo\nMejoras y correcciones",
+  "notes": "Puedes configurar cuándo acelera el desfile cuando hay muchos regalos en cola (por defecto 220) y a qué velocidad (x1.3)\nAviso dentro del programa cuando hay una actualización, con botón Actualizar\nMejoras y correcciones",
   "url": "https://github.com/cristiancordova1207/Fashion-Show-Realease/raw/main/Roblox-Fashion-Show.exe",
   "required": true
 }
