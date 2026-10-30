@@ -2,7 +2,7 @@
 
 ## v1.0.9 · 2026-10-30
 
-- Pack Premium: modo AFK, overlays y ajustes del desfile
+- Nuevas opciones para el modo AFK, overlays y el desfile
 - El desfile acelera a x1.3 cuando hay muchos regalos en cola
 - Estadísticas de cada directo
 - Mejoras y correcciones
