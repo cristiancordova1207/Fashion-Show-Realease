@@ -1,5 +1,12 @@
 # Roblox Fashion Show · novedades
 
+## v1.0.13 · 2026-10-30
+
+- Reinicio del LIVE más fiable: lee bien el contador del directo
+- Marca propia se pone aunque el menú diga «Desactivado»
+- Si el panel de Ajustes de LIVE ya está abierto, lo aprovecha
+- Favorito del público se activa sin dar error
+
 ## v1.0.12 · 2026-10-30
 
 - Cada directo empieza con sus estadísticas a cero y los anteriores se guardan en un historial que puedes ver en el móvil. Los avisos al móvil ya no se repiten.
