@@ -1,5 +1,9 @@
 # Roblox Fashion Show · novedades
 
+## v1.0.16 · 2026-10-30
+
+- Reiniciar el LIVE: cierra primero el aviso de visibilidad restringida y luego sigue
+
 ## v1.0.15 · 2026-10-30
 
 - Reinicio programado del LIVE: ahora puedes elegir desde 1 minuto
