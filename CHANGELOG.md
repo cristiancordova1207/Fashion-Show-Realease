@@ -1,5 +1,9 @@
 # Roblox Fashion Show · novedades
 
+## v1.0.18 · 2026-10-31
+
+- Captcha de inactividad: el programa te avisa al móvil, espera a que lo resuelvas y si no, reinicia el LIVE antes de que se cancele (casilla en Reinicio). Al reiniciar el LIVE se graban 2 minutos de la pantalla en la carpeta Videos para ver qué hizo. Los regalos de prueba ya no cuentan en las estadísticas ni llegan a la app del móvil. Duración de la Levitación ajustable en Regalos.
+
 ## v1.0.17 · 2026-10-31
 
 - Nueva animación de regalos para TikTok LIVE Studio (Overlays → Animación de regalos). Nuevo modo Levitación con el regalo Capybara. Lista de Rush más fácil: una fila por persona, se guarda sola y puedes pegar varias líneas. Los overlays ahora están disponibles para todos. El reinicio del LIVE ve la pantalla y cierra solo los paneles que estorban.
