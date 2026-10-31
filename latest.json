@@ -1,6 +1,6 @@
 {
-  "version": "1.0.16",
-  "date": "2026-10-30",
-  "notes": "Reiniciar el LIVE: cierra primero el aviso de visibilidad restringida y luego sigue",
+  "version": "1.0.17",
+  "date": "2026-10-31",
+  "notes": "Nueva animación de regalos para TikTok LIVE Studio (Overlays → Animación de regalos). Nuevo modo Levitación con el regalo Capybara. Lista de Rush más fácil: una fila por persona, se guarda sola y puedes pegar varias líneas. Los overlays ahora están disponibles para todos. El reinicio del LIVE ve la pantalla y cierra solo los paneles que estorban.",
   "url": "https://github.com/cristiancordova1207/Fashion-Show-Realease/raw/main/Roblox-Fashion-Show.exe"
 }

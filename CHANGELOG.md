@@ -1,5 +1,9 @@
 # Roblox Fashion Show · novedades
 
+## v1.0.17 · 2026-10-31
+
+- Nueva animación de regalos para TikTok LIVE Studio (Overlays → Animación de regalos). Nuevo modo Levitación con el regalo Capybara. Lista de Rush más fácil: una fila por persona, se guarda sola y puedes pegar varias líneas. Los overlays ahora están disponibles para todos. El reinicio del LIVE ve la pantalla y cierra solo los paneles que estorban.
+
 ## v1.0.16 · 2026-10-30
 
 - Reiniciar el LIVE: cierra primero el aviso de visibilidad restringida y luego sigue
