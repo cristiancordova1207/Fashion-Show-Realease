@@ -1,7 +1,7 @@
 {
-  "version": "1.0.11",
+  "version": "1.0.12",
   "date": "2026-10-30",
-  "notes": "Nueva tarjeta Live Checker: mira las estadísticas de tu directo en el móvil (espectadores, likes, seguidores, regalos con sus imágenes) y recibe avisos con alarma si tu LIVE se restringe, se desactivan los regalos o se corta.",
+  "notes": "Cada directo empieza con sus estadísticas a cero y los anteriores se guardan en un historial que puedes ver en el móvil. Los avisos al móvil ya no se repiten.",
   "url": "https://github.com/cristiancordova1207/Fashion-Show-Realease/raw/main/Roblox-Fashion-Show.exe",
   "required": true
 }

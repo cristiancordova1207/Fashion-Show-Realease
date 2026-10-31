@@ -1,5 +1,9 @@
 # Roblox Fashion Show · novedades
 
+## v1.0.12 · 2026-10-30
+
+- Cada directo empieza con sus estadísticas a cero y los anteriores se guardan en un historial que puedes ver en el móvil. Los avisos al móvil ya no se repiten.
+
 ## v1.0.11 · 2026-10-30
 
 - Nueva tarjeta Live Checker: mira las estadísticas de tu directo en el móvil (espectadores, likes, seguidores, regalos con sus imágenes) y recibe avisos con alarma si tu LIVE se restringe, se desactivan los regalos o se corta.
