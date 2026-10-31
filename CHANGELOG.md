@@ -1,5 +1,10 @@
 # Roblox Fashion Show · novedades
 
+## v1.0.14 · 2026-10-30
+
+- Reiniciar el LIVE: ya encuentra siempre el botón «Finalizar LIVE»
+- Si el menú del contador ya está abierto, lo aprovecha
+
 ## v1.0.13 · 2026-10-30
 
 - Reinicio del LIVE más fiable: lee bien el contador del directo

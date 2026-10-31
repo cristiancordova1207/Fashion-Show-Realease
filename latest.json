@@ -1,6 +1,6 @@
 {
-  "version": "1.0.13",
+  "version": "1.0.14",
   "date": "2026-10-30",
-  "notes": "Reinicio del LIVE más fiable: lee bien el contador del directo\nMarca propia se pone aunque el menú diga «Desactivado»\nSi el panel de Ajustes de LIVE ya está abierto, lo aprovecha\nFavorito del público se activa sin dar error",
+  "notes": "Reiniciar el LIVE: ya encuentra siempre el botón «Finalizar LIVE»\nSi el menú del contador ya está abierto, lo aprovecha",
   "url": "https://github.com/cristiancordova1207/Fashion-Show-Realease/raw/main/Roblox-Fashion-Show.exe"
 }
