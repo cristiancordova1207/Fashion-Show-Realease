@@ -1,5 +1,10 @@
 # Roblox Fashion Show · novedades
 
+## v1.0.15 · 2026-10-30
+
+- Reinicio programado del LIVE: ahora puedes elegir desde 1 minuto
+- Las actualizaciones nuevas aparecen antes
+
 ## v1.0.14 · 2026-10-30
 
 - Reiniciar el LIVE: ya encuentra siempre el botón «Finalizar LIVE»
